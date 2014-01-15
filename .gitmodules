@@ -1,3 +1,6 @@
 [submodule "dc3"]
 	path = dc3
 	url = https://github.com/jakobvarmose/test.git
+[submodule "2"]
+	path = 2
+	url = https://github.com/jakobvarmose/doublechat.git
