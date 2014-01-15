@@ -1,0 +1,3 @@
+[submodule "dc3"]
+	path = dc3
+	url = https://github.com/jakobvarmose/test.git
